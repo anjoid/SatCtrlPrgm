@@ -1,0 +1,16 @@
+Creating   'SatCtrl.eep'
+Creating   'SatCtrl.obj'
+Creating   'SatCtrl.lst'
+
+Assembling 'SatCtrl.asm'
+Including  'SatCtrl.vec'
+Including  'SatCtrl.inc'
+
+Program memory usage:
+Code             : 3655 words
+Constants (dw/db):  353 words
+Unused           :    0 words
+Total            : 4008 words
+
+Assembly complete with no errors.
+Deleting   'SatCtrl.eep'
